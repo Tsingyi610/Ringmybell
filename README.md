@@ -1,4 +1,4 @@
-## 毕业设计作品 “Ringmybell”民宿出租在线预订移动应用（iOS）
+## 毕业设计作品 “Ringmybell”民宿出租在线预订移动应用（支持iOS8+）
 
 &nbsp;&nbsp;本仓库存放的是iOS平台的项目代码，采用*Objective-C*语言编写，涉及部分第三类库：__*[AFNetworking](https://github.com/AFNetworking/AFNetworking)*/*[MJRefresh](https://github.com/CoderMJLee/MJRefresh)*/*[MRProgress](https://github.com/mrackwitz/MRProgress)*__
 
