@@ -1,8 +1,6 @@
-## 毕业设计作品 “Ringmybell”民宿出租在线预订移动应用（支持iOS8+）
+## 毕业设计作品 “Ringmybell”民宿出租在线预订移动应用（iOS）
 
 &nbsp;&nbsp;本仓库存放的是iOS平台的项目代码，采用*Objective-C*语言编写，涉及部分第三类库：__*[AFNetworking](https://github.com/AFNetworking/AFNetworking)*/*[MJRefresh](https://github.com/CoderMJLee/MJRefresh)*/*[MRProgress](https://github.com/mrackwitz/MRProgress)*__
-
-***
 
 ### 项目概述
 
@@ -14,6 +12,11 @@
 * 提供app内部在线交流板块；
 * 收藏、心愿单等用户喜闻乐见的其他功能。
 
-***
 
 如有任何修改意见，请发送邮件至`tylonassassins@gmail.com`。
+
+#### Issues
+1. 在线消息交流模块显示最新消息可能混乱的问题；
+2. 默认收藏清单图片显示问题；
+3. 首页轮播可能与子页面内容不符的问题。
+
