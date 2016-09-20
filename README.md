@@ -13,7 +13,7 @@
 * 收藏、心愿单等用户喜闻乐见的其他功能。
 
 
-如有任何修改意见，请发送邮件至`tylonassassins@gmail.com`。
+如有任何修改意见，请发送邮件至`qifan.zhang@chipmuck.cc`。
 
 #### Issues
 1. 在线消息交流模块显示最新消息可能混乱的问题；
